@@ -121,7 +121,7 @@ client.on('guildDelete', guild => {
     .addField("Sunucu sahibi", guild.owner)
     .addField("Sunucudaki Kişi Sayısı:", guild.memberCount)
     
-       client.channels.cache.get('784906432419069962').send(Crewembed);
+       client.channels.cache.get('919136709852135435').send(Crewembed);
       
     });
     
@@ -136,7 +136,7 @@ client.on('guildDelete', guild => {
     .addField("Sunucu sahibi", guild.owner)
     .addField("Sunucudaki Kişi Sayısı:", guild.memberCount)
     
-       client.channels.cache.get('784906432419069962').send(Crewembed);
+       client.channels.cache.get('919136709852135435').send(Crewembed);
       
     });
     
