@@ -140,4 +140,4 @@ client.on('guildDelete', guild => {
       
     });
     
-client.login(ayarlar.token);
+client.login(token);
